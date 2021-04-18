@@ -1,0 +1,32 @@
+[{
+  
+  "code": "Twin",
+  "name": "Twin",
+  "description": "Twin",
+  "price": "50",
+  "suite": "Harry Potter"
+},
+{
+
+  "code": "Double Twin",
+  "name": "Double Twin",
+  "description": "Double Twin",
+  "price": "70",
+  "suite":"Game of Thrones"
+},
+{
+  
+  "code": "Deluxe",
+  "name": "Deluxe",
+  "description": "Deluxe",
+  "price": "50",
+  "suite": "The Hobbit"
+},
+{
+  
+  "code": "Double Twin",
+  "name": "Double Twin",
+  "description": "Double Twin",
+  "price": "70",
+  "suite":"Great Gatsby"
+}]
